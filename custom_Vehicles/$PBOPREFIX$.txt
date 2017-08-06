@@ -1,0 +1,6 @@
+///////<HEADER>///////
+prefix=custom_Vehicles
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: 'CB1CEB37D1C32C2244165CA7988626A2010A3811'
+//////</HEADER>//////
